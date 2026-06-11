@@ -1,3 +1,5 @@
+```
+
 ┌─ Request ──────────────────────────────────┐
 │  GET /turnstile?url=...&sitekey=...         │
 │  GET /recaptchaV3?url=...&sitekey=...       │
@@ -54,3 +56,4 @@
           ✅ 200 /token/
           ❌ 422 error
           ⏳ 202 still processing
+```
