@@ -1,5 +1,7 @@
 # Global CAPTCHA Solver
 
+### GIVE stars if use thanks
+
 git clone path this global: 
 ```
 https://github.com/Wawanahayy/captcha-skill
