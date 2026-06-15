@@ -1,5 +1,11 @@
 # Global CAPTCHA Solver
 
+git clone path this global: 
+```
+https://github.com/Wawanahayy/captcha-skill
+```
+
+
 A self-hosted, zero-cost CAPTCHA bypass service. Drop-in replacement for paid solvers like 2Captcha, Anti-Captcha, sctg.xyz. Solves the four most common challenge types in 5-30 seconds using a local pool of Camoufox browsers.
 
 This is a **runtime server**, not a one-off script. Once running, it exposes a simple HTTP API on port 8001. Other tools and skills hit the API to get tokens/cookies on demand.
